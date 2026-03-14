@@ -1,2 +1,24 @@
-# Healthcare-Resource
-VitalConnect is a smart emergency response system that connects patients, ambulances, and hospitals in real time. It allows users to send SOS alerts during medical emergencies for faster help. The system provides live ambulance tracking and patient information to paramedics.
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
