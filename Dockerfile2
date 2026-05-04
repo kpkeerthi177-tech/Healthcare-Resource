@@ -1,0 +1,2 @@
+FROM nginx:alphine
+COPY./user/share/nginx/html
